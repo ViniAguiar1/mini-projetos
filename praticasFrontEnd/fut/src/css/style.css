@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    /* height: 250px; */
+}
+.title{
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    display: flex;
+}
+/* .button-container{
+    display: flex;
+    width: 140px;
+    height: 30px;
+    margin-right: 40px;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.buttom{
+    width: 80px;
+    height: 50px;
+    margin-top: 40px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border-radius: 2px solid black;
+    transition: 0.4s;
+}
+.buttom:hover{
+    background-color: blue;
+    color:white;
+} */
